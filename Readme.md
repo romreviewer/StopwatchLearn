@@ -1,0 +1,1 @@
+Stop watch source code to learn basic android app working.
